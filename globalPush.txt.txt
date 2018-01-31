@@ -1,0 +1,5 @@
+This file One team member (IA, usually) create a file locally, then add and sync (sometimes called “push” or “publish”) the file to Github
+The file must be plain text - you can call it whatever you want, e.g. “shopping list.txt”
+Fill the file with several lines of text
+
+Check the file in Github - make sure your local edits end up online
