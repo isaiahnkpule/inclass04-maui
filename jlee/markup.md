@@ -21,7 +21,7 @@
 | Singapore     | SE Asia       | 5.6 million |
 
 
-![New York City](./media/nyc.jpg)
+![New York City](./media/nycq.jpg)
 
 New York City
 ![Singapore](./media/singapore.jpg)
