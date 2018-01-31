@@ -24,10 +24,10 @@
 ![New York City](./media/nyc.jpg)
 
 New York City
-![Singapore](../media/singapore.jpg)
+![Singapore](./media/singapore.jpg)
 
 Singapore
-![Tokyo](/media/tokyo.jpg)
+![Tokyo](./media/tokyo.jpg)
 Tokyo
 
 
