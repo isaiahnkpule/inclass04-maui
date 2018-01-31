@@ -19,6 +19,8 @@
 | New York      | North America | 8.5 million |
 | Tokyo         | NE Asia       | 9.2 million |
 | Singapore     | SE Asia       | 5.6 million |
+
+
 ![New York City](../media/nyc.jpg)
 
 New York City
