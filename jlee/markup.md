@@ -2,8 +2,8 @@
 
 
 
-#Tokyo, New York, Singapore:  Major Cities
-##In-class exercise 5: Information Architecture and Markdown 
+# Tokyo, New York, Singapore:  Major Cities
+## In-class exercise 5: Information Architecture and Markdown 
 ### Jovan-Gianni Lee 
 
 #### What do they have in common?
