@@ -34,10 +34,15 @@ Tokyos area has the largest metropolitan economy in the world, with a total GDP 
 
 The economy of Singapore is a highly developed free-market economy. Singapore's economy has been ranked as the most open in the world,  7th least corrupt, most pro-business,[20] with low tax rates (14.2% of Gross Domestic Product, GDP) and has the third highest per-capita GDP in the world in terms of Purchasing Power Parity (PPP). APEC is headquartered in Singapore.
 
+
+#### My favorite cities
+* Bullet 1
+* Bullet 2
+  * Bullet 2a
+  * Bullet 2b
+* Bullet 3
+
+
+
 #### I love Cities!
 I do too which is why I decided to give you a link where you can learn more about major metropolitan cities here. Feel free to  [browse](https://www.google.com) to your hearts content. The history of major cities is a major topic that many people find interesting and many people enjoy major cities hence why so many people live there.
-
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
