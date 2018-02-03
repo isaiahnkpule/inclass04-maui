@@ -32,7 +32,7 @@ The economies of these propspective countries are also very large.  In 2012, the
 
 Tokyos area has the largest metropolitan economy in the world, with a total GDP (nominal) of approximately $2 trillion (¥165 trillion) in 2008. According to research published by PricewaterhouseCoopers, the agglomeration of Tokyo had a total GDP of $1.5 trillion in 2008 (at purchasing power parity), ranking again as the largest urban agglomeration GDP in the world.
 
-The economy of Singapore is a highly developed free-market economy. Singapore's economy has been ranked as the most open in the world,  7th least corrupt, most pro-business,[20] with low tax rates (14.2% of Gross Domestic Product, GDP) and has the third highest per-capita GDP in the world in terms of Purchasing Power Parity (PPP). APEC is headquartered in Singapore.
+The economy of Singapore is a highly developed free-market economy. Singapore's economy has been ranked as the most open in the world,  7th least corrupt, most pro-business, with low tax rates (14.2% of Gross Domestic Product, GDP) and has the third highest per-capita GDP in the world in terms of Purchasing Power Parity (PPP). APEC is headquartered in Singapore.
 
 #### My favorite places
 * San Francisco
