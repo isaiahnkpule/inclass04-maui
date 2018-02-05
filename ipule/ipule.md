@@ -17,7 +17,7 @@ The current format of the competition involves a qualification phase, which curr
 The 20 World Cup tournaments have been won by eight national teams. Brazil have won five times, and they are the only team to have played in every tournament. The other World Cup winners are Germany and Italy, with four titles each; Argentina and inaugural winner Uruguay, with two titles each; and England, France and Spain, with one title each.
 
 #### NFL Super Bowl
-[!NFL](/ipule/media/NFL.jpg)
+[!NFL](/ipule/media/nfl.jpg)
 #### Brief Bio
 The Super Bowl is the annual championship game of the National Football League (NFL). The game is the culmination of a regular season that begins in the late summer of the previous calendar year. The game was created as part of a merger agreement between the NFL and its then-rival league, the American Football League (AFL). It was agreed that the two leagues' champion teams would play in the AFL–NFL World Championship Game until the merger was to officially begin in 1970. After the merger, each league was redesignated as a "conference", and the game has since been played between the conference champions to determine the NFL's league champion. Currently, the National Football Conference (NFC) leads the league with 26 wins to 25 wins for the American Football Conference (AFC). The Pittsburgh Steelers have the most Super Bowl championship titles, with six. The New England Patriots have the most Super Bowl appearances, with ten. Charles Haley and Tom Brady both have five Super Bowl rings, which is the record for the most rings won by a single player. The day on which the Super Bowl is played, now considered by some as an unofficial American national holiday, is called "Super Bowl Sunday". It is the second-largest day for U.S. food consumption, after Thanksgiving Day. In addition, the Super Bowl has frequently been the most-watched American television broadcast of the year; the seven most-watched broadcasts in U.S. television history are Super Bowls.
 
@@ -28,7 +28,7 @@ The Super Bowl is currently played on the first Sunday in February. This is due 
 At Super Bowl LII, the Patriots have the chance to tie the Steelers for the most Super Bowl wins. Pittsburgh has won the most Super Bowls with six titles in eight appearances. The Steelers last won in Super Bowl XLIII in February 2009.San Francisco, Dallas and New England have five wins apiece. The Patriots picked up their last win last year in Super Bowl LI in an epic win over the Falcons. Green Bay and the New York Giants have four titles. The Denver Broncos, Oakland/Los Angeles Raiders and the Washington Redskins have three each.  On the flipside, 13 teams have never won a Super Bowl, including the Eagles who will play for the title this year against the Patriots. 
 
 #### NBA Finals
-[!NBA](/ipule/media/NBA.jpg)
+[!NBA](/ipule/media/nba.jpg)
 ##### Brief Bio
 The NBA Finals is the championship series of the National Basketball Association (NBA). The entrants are determined by the victors of the Eastern and Western conferences, who engage in a best-of-seven game series to determine the league champion. The winners of the Finals are awarded the Larry O'Brien Championship Trophy, which replaced the Walter A. Brown Trophy in 1983.
 
