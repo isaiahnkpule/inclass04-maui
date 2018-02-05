@@ -5,6 +5,12 @@
 
 ### Introduction
 
+The topic I chose for this assignment were on  sport's finals; primarily the NFL, NBA, and FIFA. Althought FIFA is a more worldwide, international sport, the common characteristic they share is being a championship event. NFL stands for National Football League, NBA stands for National Basketball Association, and FIFA is the Federation Internationale Football Association. All three practices would typically require physical abilities beyond the average human. 
+
+In recent time, Seattle Seahawks took the NFL Superbowl Championship against the New England Patriots. The Warriors took home 2017's NBA Finals against the Cavaliers. Lastly, in the World Cup the last winner was Germany against Argentina in 2014. Each event has their own level of intensity and fan-base, which heavily plays off through media. 
+
+
+
 #### FIFA World Cup
 ![FIFA](/ipule/media/fifa.jpg)
 ##### Brief Bio
