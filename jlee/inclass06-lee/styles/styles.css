@@ -1,0 +1,47 @@
+img {
+    width:240;
+    height:180;
+}
+.jumbotron{
+    height:280;
+}
+h1 {
+    text-align: center 
+}
+h4 {
+    text-align: center 
+}
+.contrast{
+    border-style: dotted;
+}
+.repitition{
+    border-style: dotted;
+}
+.proximity {
+    border-style:dotted;
+}
+.l-prox{
+    float:left;
+}
+.headcenter {
+    text-align: center 
+}
+.alignment{
+    text-align: center;
+    border:dotted;
+    text-justify: auto;
+}
+.viewport{
+    margin: 0 auto;
+    width:90%;
+    max-width:1000;
+}
+footer{
+    text-align: center;
+}
+.cp {
+    border:dotted;
+}
+ul {
+    list-style-position: inside;
+}
