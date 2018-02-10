@@ -47,7 +47,38 @@
                       <div class="container">
                         <h1>Hello, world!</h1>
                         <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
-<!-- Slide Show with JS Here -->
+<!-- Slide Show with JS Here
+Script used because we dont really need an extra js file
+https://goo.gl/l99Lzd 
+Thankfully adopted using WC3 as a reference point -->
+
+<div class="w3-content w3-section" style="max-width:500px">
+<img class="mySlides" alt ="" src="./images/gallery/jg1.jpg" height ="50" width = "50"> <!-- Jovan -->
+<img class="mySlides" alt ="" src="./images/gallery/jg2.jpg" height ="50" width = "50"> <!-- Isaiah -->
+<!-- img class="mySlides" src="./images/gallery/jovan1.jpg">3rd 
+
+For some reason the class style not applying so Im using in img styles
+
+-->
+</div>         
+                     
+                     <script>
+                          var slideIndex = 0;
+carousel();
+
+function carousel() {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    for (i = 0; i < x.length; i++) {
+      x[i].style.display = "none"; 
+    }
+    slideIndex++;
+    if (slideIndex > x.length) {slideIndex = 1} 
+    x[slideIndex-1].style.display = "block"; 
+    setTimeout(carousel, 2000); // Change image every 2 seconds
+}
+                          
+                          </script>
 
 
                    </div>
@@ -58,7 +89,7 @@
                       <div class="row">
                         <div class="col-md-4">
                           <h2>Jovan Lee</h2>
-                          <img src="smiley.gif" alt="Smiley face" height="42" width="42">                          
+                          <img class = "picS" alt ="" src="./images/singular/jovan1.jpg" height ="50" width="50">                          
                           <p> Information Architect. Random stuff about major and shuch blah blah Random stuff about major and shuch blah blah  </p>
                           <p><a class="btn btn-default" href="jovan.html" role="button">View details &raquo;</a></p>
                         </div>
