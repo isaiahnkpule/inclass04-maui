@@ -35,3 +35,6 @@
 @media( max-width: 1000px ){
   .menu li { display: block; } 
 }
+p{
+  text-align: center;
+}
