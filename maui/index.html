@@ -1,119 +1,77 @@
-<!DOCTYPE HTML>
-
-<html Lang="en">
-  <head>
-      <meta charset= "utf-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title> Assignment 2: Maui </title>
-      <link rel="stylesheet" href="css/styles.css">
-      <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-        
-  </head>
+<?php include "inc/html-top.php"; ?>
 
 <body>
-                  <!-- Navigation place holder coder please make php include -->
-        <nav class="menu">
-                <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                  <span class="navbar-toggler-icon"></span>
-                </button>
-                <a class="navbar-brand">Assignment 2</a>
-                <div class="collapse navbar-collapse" id="navbarNav">
-                  <ul class="navbar-nav">
-                    <li class="nav-item active">
-                      <a class="nav-link" href="index.html">Home <span class="sr-only"></span></a>
-                    </li>
-                    <li class="nav-item">
-                      <a class="nav-link" href="jovan.html">Jovan</a>
-                    </li>
-                    <li class="nav-item">
-                      <a class="nav-link" href="isaiah.html">Isaiah</a>
-                    </li>
-                    <li class="nav-item">
-                            <a class="nav-link" href="claude.html">Claude</a>
-                          </li>
-                  </ul>
-                </div>
-              </nav>
-    <!-- Main jumbotron for a primary marketing message or call to action -->
-<div class="container">
-<div class="banner">
-        <h1>Welcome to Maui!</h1>
-        <p>Team Portfolio: Brief bio on team Maui!</p>
-        <?php include (inc/nav.inc); ?>
-<div class="order">
-    <!-- Slide Show with JS Here
-    Script used because we dont really need an extra js file
-    https://goo.gl/l99Lzd 
-    Thankfully adopted using WC3 as a reference point -->
-
-    <div style="text-align:center;">
-    
-    <div class="container">
-      <div class="w3-content-w3-section">
-      <img class="mySlides" alt ="" align="middle" src="./images/gallery/maui1.jpg" height ="500" width = "500"> 
-      <img class="mySlides" alt ="" align="middle" src="./images/gallery/maui2.jpg" height ="500" width = "500"> 
-      <img class="mySlides" alt ="" align="middle" src="./images/gallery/maui3.jpg" height ="500" width = "500"> 
-      <!-- img class="mySlides" src="./images/gallery/jovan1.jpg">3rd 
-      For some reason the class style not applying so Im using in img styles
-      -->
-      <div class ="right">
-    </div>
-      
-    </div>
-  </div>
   
-      <script>
-    var slideIndex = 0;
-    carousel();
-    function carousel() {
-    var i;
-    var x = document.getElementsByClassName("mySlides");
-    for (i = 0; i < x.length; i++) {
-      x[i].style.display = "none"; 
-    }
-    slideIndex++;
-    if (slideIndex > x.length) {slideIndex = 1} 
-    x[slideIndex-1].style.display = "block"; 
-    setTimeout(carousel, 2000); // Change image every 2 seconds
-}
-    </script>
-
-   <!-- Example row of columns -->
-    <div class="row">
-    <div class="col-md-4">
-    <div class="order">
-      <h2>Jovan Lee</h2>
-      <img class = "picS" alt ="jovan" align="middle" src="./images/singular/jovan1.jpg" height ="50" width="50">                          
-      <p> Information Architect: My name is Jovan Gianni Lee and am from Bronx, New York and went to St Raymond High School for Boys an all male Catholic School also located in the Bronx. </p>
-      <p><a class="btn btn-default" href="jovan.html" role="button">View details &raquo;</a></p>
-    </div>
-    <div class="col-md-4">
-      <h2>Isaiah Pule</h2>
-      <img class = "picS" alt ="" src="./images/singular/me.jpg" height ="50" width="50"> 
-      <p>Design Arichitech: I am from Wai’anae, Hawai’i a local paradise but predominantly a low-income community. While a wonderful place to live and be from, there are many challenges, which our youth face on a daily basis. </p>
-      <p><a class="btn btn-default" href="isaiah.html" role="button">View details &raquo;</a></p>
-   </div>
-    <div class="col-md-4">
-      <h2>Claude Irankundra</h2>
-      <img class = "picS" alt ="" src="./images/singular/smiley.jpg" height ="50" width="50"> 
-      <p>Coder: Some Stuff about Claude</p>
-      <p><a class="btn btn-default" href="claude.html" role="button">View details &raquo;</a></p>
-    </div>
-  </div>
-  </div>
-</div>
-</div>
-</div>
-      <?php include "inc/footer.inc"; ?>
-
-       </div><!-- .container -->
-
-      <?php include "inc/js.inc"; ?>
-
-
+   <!-- Main jumbotron for a primary marketing message or call to action -->
+   <div class="container">
+      <div class="banner">
+      <div class="header">
+         <h1>Welcome to Maui!</h1>
+         <p>Team Portfolio: Brief Bio On Team Maui!</p>
+      </div>
+         <?php include "inc/nav.php"; ?>
+         <div class="order">
+            <!-- Slide Show with JS Here
+               Script used because we dont really need an extra js file
+               https://goo.gl/l99Lzd 
+               Thankfully adopted using WC3 as a reference point -->
+            <div style="text-align:center;">
+               <div class="container">
+                  <div class="w3-content-w3-section">
+                     <img class="mySlides" alt ="" src="./images/gallery/maui1.jpg" height ="500" width = "500"> 
+                     <img class="mySlides" alt ="" src="./images/gallery/maui2.jpg" height ="500" width = "500"> 
+                     <img class="mySlides" alt ="" src="./images/gallery/maui3.jpg" height ="500" width = "500"> 
+                     <!-- img class="mySlides" src="./images/gallery/jovan1.jpg">3rd 
+                        For some reason the class style not applying so Im using in img styles
+                        -->
+                     <div class ="right">
+                     </div>
+                  </div>
+               </div>
+               <script>
+                  var slideIndex = 0;
+                  carousel();
+                  function carousel() {
+                  var i;
+                  var x = document.getElementsByClassName("mySlides");
+                  for (i = 0; i < x.length; i++) {
+                    x[i].style.display = "none"; 
+                  }
+                  slideIndex++;
+                  if (slideIndex > x.length) {slideIndex = 1} 
+                  x[slideIndex-1].style.display = "block"; 
+                  setTimeout(carousel, 2000); // Change image every 2 seconds
+                  }
+               </script>
+               <!-- Example row of columns -->
+               <div class="row">
+                  <div class="col-md-4">
+                     <div class="order">
+                        <h2>Jovan Lee</h2>
+                        <img class = "picS" alt ="jovan" src="./images/singular/jovan1.jpg" height ="250" width="250">   
+                     </div>                       
+                        <p> Information Architect: My name is Jovan Gianni Lee and am from Bronx, New York and went to St Raymond High School for Boys an all male Catholic School also located in the Bronx. </p>
+                        <p><a class="btn btn-default" href="jovan.php" role="button">View details &raquo;</a></p>
+                     </div>
+                     <div class="col-md-4">
+                        <h2>Isaiah Pule</h2>
+                        <img class = "picS" alt ="" src="./images/singular/me.jpg" height ="250" width="250"> 
+                        <p>Design Arichitech: I am from Wai’anae, Hawai’i a local paradise but predominantly a low-income community. While a wonderful place to live and be from, there are many challenges, which our youth face on a daily basis. </p>
+                        <p><a class="btn btn-default" href="isaiah.php" role="button">View details &raquo;</a></p>
+                     </div>
+                     <div class="col-md-4">
+                        <h2>Claude Irankundra</h2>
+                        <img class = "picS" alt ="" src="./images/singular/claude.jpg" height ="250" width="250"> 
+                        <p>I dropped the class but my teammates made sure to take a good picture of me</p>
+                        <p><a class="btn btn-default" href="claude.php" role="button">View details &raquo;</a></p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <?php include"inc/footer.php";?>
+   <!-- .container -->
 </body>
 </html>
-
 <!-- Jumbotron template sources from bootstrap -->
